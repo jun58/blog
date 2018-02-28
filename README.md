@@ -1,4 +1,4 @@
-## Harry 的博客
+## Harry 博客
 
 所有的博客均在 [issue](https://github.com/jun58/blog/issues) 中发布
 
